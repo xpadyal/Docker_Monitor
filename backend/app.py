@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 # OpenAI API Key
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = " ")
 # Docker Client
 docker_client = docker.from_env()
 
