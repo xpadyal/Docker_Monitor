@@ -49,7 +49,7 @@ A **Docker Monitoring System** built with **Streamlit** that provides real-time 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/xpadyal/Docker_Monitor.git
-   cd docker-monitoring-system
+   cd Docker_Monitor
    ```
 
 2. **Build the Docker Containers**:
